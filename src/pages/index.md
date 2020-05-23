@@ -8,7 +8,10 @@ mainpitch:
   title: What Is It?
   description: >
     At envdeck we give you the ability to spin up, distribute and manage
-    developer environments in the cloud for your whole team.
+    developer environments for your whole team, in the cloud.  Giving them the
+    ability to work on any machine with an internet connection, securely and
+    easily, and saves management the financial burden of costly hardware or IT
+    services.
 description: With your developers all working on cloud-based machines, you can
   be sure of no more "it works on my machine" issues holding up productivity.
 intro:
@@ -34,7 +37,7 @@ intro:
         costly IT services installing unstable security software on all your
         company's hardware.  Hire remote teams or freelancers with
         peace-of-mind.
-    - image: /img/meeting-space.png
+    - image: /img/undraw_code_review_l1q9.svg
       text: >
         Your developers can spin-up our browser-based IDE, theia, which is an
         open-source version of the immensely popular VScode, at a click of a
