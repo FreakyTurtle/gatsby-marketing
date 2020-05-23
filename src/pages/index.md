@@ -13,29 +13,36 @@ description: With your developers all working on cloud-based machines, you can
   be sure of no more "it works on my machine" issues holding up productivity.
 intro:
   blurbs:
-    - image: /img/max-duzij-qajjk-un3bi-unsplash.jpg
+    - image: /img/undraw_developer_activity_bv83.svg
       text: >
         A cloud-based developer environment is designed to do one thing, run
         your code.  No resource-hogging background programs like slack or chrome
-        will slow your developers down.
-    - image: /img/coffee-gear.png
+        will slow your developers down.  With your developer's all working in
+        the same environments, machine-specific issues are a thing of the past,
+        letting your developers work on the code that matters, yours.
+    - image: /img/undraw_performance_overview_p9bm.svg
       text: >
         Manage all your environments in one easy-to-use dashboard, give each
-        developer as many as they need to get their job done
-    - image: /img/tutorials.png
+        developer as many as they need to get their job done.  Manage your team,
+        invite new members, revoke access to others and see what your team has
+        running at any given time. 
+    - image: /img/undraw_security_o890.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        With code no longer sitting on your developer's macbook's, you can be
+        sure that should the worst happen, you can simply revoke their access
+        and your business-critical code will remain secure.  This saves money on
+        costly IT services installing unstable security software on all your
+        company's hardware.  Hire remote teams or freelancers with
+        peace-of-mind.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Your developers can spin-up our browser-based IDE, theia, which is an
+        open-source version of the immensely popular VScode, at a click of a
+        button, and work from anywhere with an internet connection.  No more
+        need to pay for best-in-class hardware or expensive
+        macbooks.   Databases and other commonly-used technologies can be added
+        without worrying about installation, networking or other common set-up
+        problems that drain time away from the productive work.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
